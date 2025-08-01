@@ -3,7 +3,8 @@
   <entry>
     <title>第一篇博文</title>
     <url>/2025/07/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
-    <content><![CDATA[<div class="video-container">
+    <content><![CDATA[<p>谨此记录我的第一篇博文，希望后边还能继续写下去。</p>
+<div class="video-container">
   <iframe src="//player.bilibili.com/player.html?bvid=BV1g68TzPEkh&p=3"
           scrolling="no"
           border="0"
@@ -31,5 +32,8 @@
 }
 </style>
 ]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
   </entry>
 </search>
